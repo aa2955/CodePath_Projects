@@ -35,7 +35,7 @@ The following **stretch** functionality is implemented:
     - ![Image/GIF showing the icon button customization](https://capture.dropbox.com/8h0yFpe1M1IU8Ll6) <!-- Replace this link with your actual image/GIF link -->
 
 - [ ] (2 pts) **User can customize the app's theme (e.g., a dog-themed background with a paw print button).**  
-  - ![Image/GIF showing theme customization](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing theme customization](https://capture.dropbox.com/8h0yFpe1M1IU8Ll6) <!-- Replace this link with your actual image/GIF link -->
 
 - [ ] (+2 bonus pts) **User has progressively difficult goals to reach in terms of the number of taps accumulated.**  
   - Display each goal on the screen, and track the total number of goals reached.
