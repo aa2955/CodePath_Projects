@@ -18,7 +18,8 @@ The following **required** functionality is completed:
   - ![image](https://github.com/user-attachments/assets/e606bb03-a16a-4aca-bb4d-50cbe1626bb9)
 
 - [ ] (2 pts) **User can tap on a button to see the number displayed increase by 1.**  
-  - ![GIF](https://capture.dropbox.com/1jXPx34AvELKq5Y4)
+  - https://capture.dropbox.com/8h0yFpe1M1IU8Ll6
+  - Please copy paste the links into the search bar
 
 ### Stretch Features
 
