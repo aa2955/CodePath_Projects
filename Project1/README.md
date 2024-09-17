@@ -10,19 +10,19 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [X] **User has 3 chances to guess a random 4 letter word**
+- [X] **After 3 guesses, user should no longer be able to submit another guess**
+- [X] **After each guess, user sees the "correctness" of the guess**
+- [X] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
 - [ ] User can toggle betweeen different word lists
-- [ ] User can see the 'correctness' of their guess through colors on the word 
-- [ ] User sees a visual change after guessing the correct word
-- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
-- [ ] User will get an error message if they input an invalid guess
-- [ ] User can see a 'streak' record of how many words they've guessed correctly.
+- [X] User can see the 'correctness' of their guess through colors on the word 
+- [X] User sees a visual change after guessing the correct word
+- [X] User can tap a 'Reset' button to get a new word and clear previous guesses
+- [X] User will get an error message if they input an invalid guess
+- [X] User can see a 'streak' record of how many words they've guessed correctly.
 
 The following **additional** features are implemented:
 
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://capture.dropbox.com/DWR5CUBoukkrJ7SZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIFs created with dropbox capture  
 
