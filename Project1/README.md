@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://capture.dropbox.com/DWR5CUBoukkrJ7SZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+(https://capture.dropbox.com/DWR5CUBoukkrJ7SZ)
 
 GIFs created with dropbox capture  
 
