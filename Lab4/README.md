@@ -14,19 +14,19 @@ Time spent: **2** hours spent in total <!-- Replace 'X' with the number of hours
 
 The following **required** functionality is completed:
 
-- [ ] (3 pts) **Articles are displayed using the RecyclerView.**
+- [x] (3 pts) **Articles are displayed using the RecyclerView.**
   - ![image](https://github.com/user-attachments/assets/8a8906b6-1442-4e1f-b456-34c783dbb941
 
-- [ ] (4 pts) **Can navigate to the Article Details screen.**
+- [x] (4 pts) **Can navigate to the Article Details screen.**
   - https://capture.dropbox.com/ZzdrUbsylT7rvm6B
 
-- [ ] (3 pts) **Article images are downloaded and displayed using Glide.**
+- [x] (3 pts) **Article images are downloaded and displayed using Glide.**
   - https://capture.dropbox.com/f9G8BpJCWOO0PGqo
 ### Stretch Features
 
 The following **stretch** functionality is implemented:
 
-- [ ] (+2 pts bonus) **Enhanced the UI for the application with customized fonts and ConstraintLayout for each of the screens.**
+- [x] (+2 pts bonus) **Enhanced the UI for the application with customized fonts and ConstraintLayout for each of the screens.**
   - ![image](https://github.com/user-attachments/assets/8a8906b6-1442-4e1f-b456-34c783dbb941
 
 ## Notes
