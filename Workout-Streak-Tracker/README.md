@@ -73,8 +73,9 @@
 
 ## Wireframes
 
-[Add picture of your hand-sketched wireframes in this section]  
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Home Screen Wireframe](assets/home_screen.png)  
+![Log Workout Screen Wireframe](assets/log_workout_screen.png)  
+![Streak Calendar Wireframe](assets/streak_calendar_screen.png)
 
 ---
 
@@ -83,6 +84,7 @@
 ---
 
 ### [BONUS] Interactive Prototype
+
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
