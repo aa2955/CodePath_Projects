@@ -4,7 +4,7 @@ Submitted by: **Anurag Agarwal**
 
 **Name of your app** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
