@@ -87,15 +87,12 @@ Workout Streak Tracker is an app designed to help users stay consistent in their
 (I used AI to make these and was pleasently surprised) 
 ### Home Screen Wireframe  
 ![Home Wireframe](![image](https://github.com/user-attachments/assets/4be0389e-9316-4032-be8c-3344d667537c)
-)  
 
 ### Log Workout Screen Wireframe  
 ![Log Workout Wireframe](![image](https://github.com/user-attachments/assets/3b9fd5b9-bac2-4041-997b-4aaaed6274b5)
-)  
 
 ### Streak Calendar Screen Wireframe  
 ![Streak Calendar Wireframe](![image](https://github.com/user-attachments/assets/79089540-13bf-4a4a-a06c-c40ce830aaad)
-)  
 
 ---
 
