@@ -84,14 +84,18 @@ Workout Streak Tracker is an app designed to help users stay consistent in their
 
 ## Wireframes
 
+(I used AI to make these and was pleasently surprised) 
 ### Home Screen Wireframe  
-![Home Wireframe](YOUR_HOME_WIREFRAME_IMAGE_URL)  
+![Home Wireframe](![image](https://github.com/user-attachments/assets/4be0389e-9316-4032-be8c-3344d667537c)
+)  
 
 ### Log Workout Screen Wireframe  
-![Log Workout Wireframe](YOUR_LOG_WORKOUT_WIREFRAME_IMAGE_URL)  
+![Log Workout Wireframe](![image](https://github.com/user-attachments/assets/3b9fd5b9-bac2-4041-997b-4aaaed6274b5)
+)  
 
 ### Streak Calendar Screen Wireframe  
-![Streak Calendar Wireframe](YOUR_CALENDAR_WIREFRAME_IMAGE_URL)  
+![Streak Calendar Wireframe](![image](https://github.com/user-attachments/assets/79089540-13bf-4a4a-a06c-c40ce830aaad)
+)  
 
 ---
 
@@ -103,17 +107,20 @@ Workout Streak Tracker is an app designed to help users stay consistent in their
 
 ## GitHub Project Board  
 
-![Project Board](YOUR_PROJECT_BOARD_IMAGE_URL)
+![Project Board](![image](https://github.com/user-attachments/assets/dd0d1b9e-a575-4063-b080-d6e5f336e359)
+)
 
 ---
 
 ## Issue Cards
 
 ### Completed Issues  
-![Completed Issues](YOUR_COMPLETED_ISSUES_IMAGE_URL)
+![Completed Issues](![image](https://github.com/user-attachments/assets/0a0285a4-df4d-4e93-b3ff-4302420605fa)
+)
 
 ### Next Sprint Issues  
-![Next Sprint Issues](YOUR_NEXT_SPRINT_ISSUES_IMAGE_URL)
+![Next Sprint Issues](![image](https://github.com/user-attachments/assets/4d252512-740d-467d-96a3-85fa7ddda1fc)
+)
 
 ---
 
@@ -123,7 +130,8 @@ Workout Streak Tracker is an app designed to help users stay consistent in their
 2. Built the Log Workout Screen to input workout type and duration.  
 3. Developed the Streak Calendar Screen with workout highlights.  
 
-![Build Progress](https://submissions.us-east-1.linodeobjects.com/and102/80ZGRJIB.gif)
+![Build Progress](![image](https://github.com/user-attachments/assets/562d431e-d5bf-4a62-8382-4cea22d9d1ce)
+)
 
 ---
 
@@ -131,7 +139,8 @@ Workout Streak Tracker is an app designed to help users stay consistent in their
 
 ## GitHub Project Board  
 
-![Updated Project Board](YOUR_UPDATED_PROJECT_BOARD_IMAGE_URL)
+![Updated Project Board](![image](https://github.com/user-attachments/assets/a7d5d612-a0ff-4a05-a900-9ea943534eee)
+)
 
 ---
 
